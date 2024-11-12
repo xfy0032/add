@@ -1,1 +1,1 @@
-# add
+Please note that the URL https://github.com/xfy0032/add is incorrect. The correct URL for the repository is https://github.com/xfy0032/aad. We apologize for any inconvenience this may have caused and recommend updating your bookmarks or references to the correct address.
