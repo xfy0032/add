@@ -1,12 +1,16 @@
 # Important Notice
 
-We would like to inform you that there has been a change in the repository URL. The previous link, https://github.com/xfy0032/add, is no longer valid. Please use the updated URL below:
+We would like to inform you that there was an error in the formatting of our paper, which resulted in an incorrect URL being listed. The incorrect URL provided in the paper is:
 
-- **Correct Repository URL:** https://github.com/xfy0032/aad
+- **Incorrect URL:** https://github.com/xfy0032/add
 
-We apologize for any inconvenience this may have caused and appreciate your understanding. If you have cloned the repository using the old URL, we recommend updating your local repository to reflect the new location.
+The correct URL for the repository is:
 
-Thank you for your cooperation.
+- **Correct URL:** https://github.com/xfy0032/aad
+
+We apologize for any inconvenience this may have caused and appreciate your understanding. If you have referenced the incorrect URL, please update your records to reflect the correct address.
+
+Thank you for your attention and cooperation.
 
 Best regards,
-The Project Team
+The Research Team
