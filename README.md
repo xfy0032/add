@@ -1,8 +1,6 @@
 # Important Notice
 
-We would like to inform you that there was an error in the formatting of our paper, which resulted in an incorrect URL being listed. The incorrect URL provided in the paper is:
-
-- **Incorrect URL:** https://github.com/xfy0032/add
+We would like to inform you that there was an error in the formatting of our paper, which resulted in an incorrect URL being listed.
 
 The correct URL for the repository is:
 
